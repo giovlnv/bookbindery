@@ -1,0 +1,28 @@
+local Updates = require("bookbindery/updates")
+
+describe("Updates.manga", function()
+    it("adds up new chapters", function()
+        assert.equals("no new chapters", Updates.manga({ { new = 0 } }))
+        assert.equals("1 new chapter", Updates.manga({ { new = 1 }, { new = 0 } }))
+        assert.equals("5 new chapters", Updates.manga({ { new = 2 }, { new = 3 } }))
+    end)
+
+    it("says why there is no library", function()
+        assert.equals("manga busy, try again", Updates.manga(nil, "manga busy, try again"))
+    end)
+end)
+
+describe("Updates.articles", function()
+    it("counts articles not read", function()
+        assert.equals("no unread articles", Updates.articles({}))
+        assert.equals("no unread articles", Updates.articles({ { status = "read" } }))
+        assert.equals("2 unread", Updates.articles({ { status = "read" }, { status = "reading" }, {} }))
+    end)
+end)
+
+describe("Updates.missing", function()
+    it("names the plugin", function()
+        assert.equals("wallabag isn't installed", Updates.missing("wallabag"))
+        assert.equals("wallabag isn't installed or changed", Updates.missing("wallabag", true))
+    end)
+end)

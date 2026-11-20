@@ -1,0 +1,6 @@
+return {
+    default = {
+        lpath = "bookbindery.koplugin/?.lua",
+        verbose = true,
+    },
+}

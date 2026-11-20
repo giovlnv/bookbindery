@@ -1,0 +1,12 @@
+local callable = require("bookbindery/callable")
+
+describe("callable", function()
+    it("takes functions and tables with __call, nothing else", function()
+        assert.is_true(callable(function() end))
+        assert.is_true(callable(setmetatable({}, { __call = function() end })))
+        assert.is_false(callable({}))
+        assert.is_false(callable(setmetatable({}, {})))
+        assert.is_false(callable(nil))
+        assert.is_false(callable("x"))
+    end)
+end)

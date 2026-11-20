@@ -1,0 +1,930 @@
+[
+ {
+  "uuid": "b00c0001-0000-4000-8000-000000000001",
+  "application_id": 1,
+  "authors": [
+   "Jane Austen"
+  ],
+  "title": "Pride and Prejudice",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Austen, Jane/Pride and Prejudice.epub",
+  "size": 100000,
+  "tags": [
+   "classics",
+   "romance"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.classics.austen"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "READ"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 432.0
+   }
+  },
+  "rating": 10,
+  "pubdate": "1813-01-28",
+  "comments": "<div><p>It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.</p><p>However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. Mrs. Bennet has five of them, and a new neighbour at Netherfield Park.</p></div>"
+ },
+ {
+  "uuid": "b00c0002-0000-4000-8000-000000000002",
+  "application_id": 2,
+  "authors": [
+   "Jane Austen"
+  ],
+  "title": "Emma",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Austen, Jane/Emma.epub",
+  "size": 100000,
+  "tags": [
+   "classics",
+   "romance"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.classics.austen"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 474.0
+   }
+  },
+  "pubdate": "1815-12-23",
+  "comments": "<p>Emma, by Jane Austen.</p>"
+ },
+ {
+  "uuid": "b00c0003-0000-4000-8000-000000000003",
+  "application_id": 3,
+  "authors": [
+   "Jane Austen"
+  ],
+  "title": "Persuasion",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Austen, Jane/Persuasion.epub",
+  "size": 100000,
+  "tags": [
+   "classics",
+   "romance"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.classics.austen"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "ONGOING"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 249.0
+   }
+  },
+  "pubdate": "1817-12-20",
+  "comments": "<p>Persuasion, by Jane Austen.</p>"
+ },
+ {
+  "uuid": "b00c0004-0000-4000-8000-000000000004",
+  "application_id": 4,
+  "authors": [
+   "Charles Dickens"
+  ],
+  "title": "Great Expectations",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Dickens, Charles/Great Expectations.epub",
+  "size": 100000,
+  "tags": [
+   "classics"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.classics.dickens"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 505.0
+   }
+  },
+  "rating": 8,
+  "pubdate": "1861-08-01",
+  "comments": "<p>Great Expectations, by Charles Dickens.</p>"
+ },
+ {
+  "uuid": "b00c0005-0000-4000-8000-000000000005",
+  "application_id": 5,
+  "authors": [
+   "Charles Dickens"
+  ],
+  "title": "A Tale of Two Cities",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Dickens, Charles/A Tale of Two Cities.epub",
+  "size": 100000,
+  "tags": [
+   "classics",
+   "historical fiction"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.classics.dickens"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "DNF"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 489.0
+   }
+  },
+  "pubdate": "1859-11-26",
+  "comments": "<p>A Tale of Two Cities, by Charles Dickens.</p>"
+ },
+ {
+  "uuid": "b00c0006-0000-4000-8000-000000000006",
+  "application_id": 6,
+  "authors": [
+   "Mary Shelley"
+  ],
+  "title": "Frankenstein",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Shelley, Mary/Frankenstein.epub",
+  "size": 100000,
+  "tags": [
+   "gothic",
+   "horror"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.gothic"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "READ"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 280.0
+   }
+  },
+  "pubdate": "1818-01-01",
+  "comments": "<p>Frankenstein, by Mary Shelley.</p>"
+ },
+ {
+  "uuid": "b00c0007-0000-4000-8000-000000000007",
+  "application_id": 7,
+  "authors": [
+   "Bram Stoker"
+  ],
+  "title": "Dracula",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Stoker, Bram/Dracula.epub",
+  "size": 100000,
+  "tags": [
+   "gothic",
+   "horror"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.gothic"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 418.0
+   }
+  },
+  "pubdate": "1897-05-26",
+  "comments": "<p>Dracula, by Bram Stoker.</p>"
+ },
+ {
+  "uuid": "b00c0008-0000-4000-8000-000000000008",
+  "application_id": 8,
+  "authors": [
+   "Anthony Trollope"
+  ],
+  "title": "The Warden",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Trollope, Anthony/The Warden.epub",
+  "size": 100000,
+  "tags": [
+   "classics"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.series.barsetshire"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "READ"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 240.0
+   }
+  },
+  "series": "Chronicles of Barsetshire",
+  "series_index": 1.0,
+  "pubdate": "1855-01-01",
+  "comments": "<p>The Warden, by Anthony Trollope.</p>"
+ },
+ {
+  "uuid": "b00c0009-0000-4000-8000-000000000009",
+  "application_id": 9,
+  "authors": [
+   "Anthony Trollope"
+  ],
+  "title": "Barchester Towers",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Trollope, Anthony/Barchester Towers.epub",
+  "size": 100000,
+  "tags": [
+   "classics"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.series.barsetshire"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 512.0
+   }
+  },
+  "series": "Chronicles of Barsetshire",
+  "series_index": 2.0,
+  "pubdate": "1857-05-01",
+  "comments": "<p>Barchester Towers, by Anthony Trollope.</p>"
+ },
+ {
+  "uuid": "b00c000a-0000-4000-8000-00000000000a",
+  "application_id": 10,
+  "authors": [
+   "Anthony Trollope"
+  ],
+  "title": "Doctor Thorne",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Trollope, Anthony/Doctor Thorne.epub",
+  "size": 100000,
+  "tags": [
+   "classics"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.series.barsetshire"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 560.0
+   }
+  },
+  "series": "Chronicles of Barsetshire",
+  "series_index": 3.0,
+  "pubdate": "1858-05-01",
+  "comments": "<p>Doctor Thorne, by Anthony Trollope.</p>"
+ },
+ {
+  "uuid": "b00c000b-0000-4000-8000-00000000000b",
+  "application_id": 11,
+  "authors": [
+   "James Fenimore Cooper"
+  ],
+  "title": "The Deerslayer",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Cooper, James Fenimore/The Deerslayer.epub",
+  "size": 100000,
+  "tags": [
+   "adventure"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.series.leatherstocking"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "ONGOING"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 534.0
+   }
+  },
+  "series": "The Leatherstocking Tales",
+  "series_index": 5.0,
+  "pubdate": "1841-01-01",
+  "comments": "<p>The Deerslayer, by James Fenimore Cooper.</p>"
+ },
+ {
+  "uuid": "b00c000c-0000-4000-8000-00000000000c",
+  "application_id": 12,
+  "authors": [
+   "James Fenimore Cooper"
+  ],
+  "title": "The Last of the Mohicans",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Cooper, James Fenimore/The Last of the Mohicans.epub",
+  "size": 100000,
+  "tags": [
+   "adventure"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fiction.series.leatherstocking"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 416.0
+   }
+  },
+  "series": "The Leatherstocking Tales",
+  "series_index": 2.0,
+  "pubdate": "1826-02-01",
+  "comments": "<p>The Last of the Mohicans, by James Fenimore Cooper.</p>"
+ },
+ {
+  "uuid": "b00c000d-0000-4000-8000-00000000000d",
+  "application_id": 13,
+  "authors": [
+   "Charles Darwin"
+  ],
+  "title": "On the Origin of Species",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Darwin, Charles/On the Origin of Species.epub",
+  "size": 100000,
+  "tags": [
+   "science",
+   "nonfiction"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "nonfiction.science",
+     "nonfiction.history"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "ONGOING"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 502.0
+   }
+  },
+  "pubdate": "1859-11-24",
+  "comments": "<p>On the Origin of Species, by Charles Darwin.</p>"
+ },
+ {
+  "uuid": "b00c000e-0000-4000-8000-00000000000e",
+  "application_id": 14,
+  "authors": [
+   "Henry David Thoreau"
+  ],
+  "title": "Walden",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Thoreau, Henry David/Walden.epub",
+  "size": 100000,
+  "tags": [
+   "essays",
+   "nonfiction"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "nonfiction.essays"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 352.0
+   }
+  },
+  "pubdate": "1854-08-09",
+  "comments": "<p>Walden, by Henry David Thoreau.</p>"
+ },
+ {
+  "uuid": "b00c000f-0000-4000-8000-00000000000f",
+  "application_id": 15,
+  "authors": [
+   "Mary Wollstonecraft"
+  ],
+  "title": "A Vindication of the Rights of Woman",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Wollstonecraft, Mary/A Vindication of the Rights of Woman.epub",
+  "size": 100000,
+  "tags": [
+   "philosophy",
+   "nonfiction"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "nonfiction.history"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "TBR"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 318.0
+   }
+  },
+  "pubdate": "1792-01-01",
+  "comments": "<p>A Vindication of the Rights of Woman, by Mary Wollstonecraft.</p>"
+ },
+ {
+  "uuid": "b00c0010-0000-4000-8000-000000000010",
+  "application_id": 16,
+  "authors": [
+   "The Strand Magazine"
+  ],
+  "title": "The Strand Magazine, January 1891",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "The Strand Magazine/The Strand Magazine, January 1891.epub",
+  "size": 100000,
+  "tags": [
+   "periodical"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "periodicals.strand"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": []
+   }
+  },
+  "pubdate": "1891-01-01",
+  "comments": "<p>The Strand Magazine, January 1891, by The Strand Magazine.</p>"
+ },
+ {
+  "uuid": "b00c0011-0000-4000-8000-000000000011",
+  "application_id": 17,
+  "authors": [
+   "The Strand Magazine"
+  ],
+  "title": "The Strand Magazine, February 1891",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "The Strand Magazine/The Strand Magazine, February 1891.epub",
+  "size": 100000,
+  "tags": [
+   "periodical"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "periodicals.strand"
+    ]
+   },
+   "#workflow": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": []
+   }
+  },
+  "pubdate": "1891-02-01",
+  "comments": "<p>The Strand Magazine, February 1891, by The Strand Magazine.</p>"
+ },
+ {
+  "uuid": "b00c0012-0000-4000-8000-000000000012",
+  "application_id": 18,
+  "authors": [
+   "H. G. Wells"
+  ],
+  "title": "The Time Machine",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "Wells, H. G./The Time Machine.epub",
+  "size": 100000,
+  "tags": [
+   "science fiction"
+  ],
+  "pubdate": "1895-01-01",
+  "comments": "<p>The Time Machine, by H. G. Wells.</p>"
+ },
+ {
+  "uuid": "b00c0013-0000-4000-8000-000000000013",
+  "application_id": 1,
+  "authors": [
+   "quietwren"
+  ],
+  "title": "windfall",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "fanfic/the glass orchard/windfall - quietwren.epub",
+  "size": 50000,
+  "tags": [
+   "The Glass Orchard - Ada Quill",
+   "Rowan Vale/Elias Thorne",
+   "Ivy Lark/Juniper Moss",
+   "Explicit",
+   "fanfic"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fanfic.glass"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 120.0
+   }
+  },
+  "identifiers": {
+   "ao3": "1000001"
+  },
+  "comments": "<p>Rowan has kept the orchard alone for ten winters. Then a stranger walks in from the frost, asking for work and refusing to give his name.</p>"
+ },
+ {
+  "uuid": "b00c0014-0000-4000-8000-000000000014",
+  "application_id": 20,
+  "authors": [
+   "inkmoth"
+  ],
+  "title": "a quiet harvest",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "fanfic/the glass orchard/a quiet harvest - inkmoth.epub",
+  "size": 50000,
+  "tags": [
+   "The Glass Orchard - Ada Quill",
+   "Rowan Vale/Elias Thorne",
+   "Teen And Up Audiences",
+   "fanfic"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fanfic.glass"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 14.0
+   }
+  }
+ },
+ {
+  "uuid": "b00c0015-0000-4000-8000-000000000015",
+  "application_id": 21,
+  "authors": [
+   "paperlantern"
+  ],
+  "title": "lanterns",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "fanfic/the glass orchard/lanterns - paperlantern.epub",
+  "size": 50000,
+  "tags": [
+   "The Glass Orchard - Ada Quill",
+   "General Audiences",
+   "fanfic"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fanfic.glass"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 9.0
+   }
+  }
+ },
+ {
+  "uuid": "b00c0016-0000-4000-8000-000000000016",
+  "application_id": 22,
+  "authors": [
+   "quietwren"
+  ],
+  "title": "tea for two",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "fanfic/starfall academy/tea for two - quietwren.epub",
+  "size": 50000,
+  "tags": [
+   "Starfall Academy - B. Penn",
+   "Ivy Lark/Juniper Moss",
+   "General Audiences",
+   "fanfic"
+  ],
+  "user_metadata": {
+   "#type": {
+    "datatype": "text",
+    "is_multiple": {
+     "ui_to_list": ",",
+     "list_to_ui": ", ",
+     "cache_to_list": "|"
+    },
+    "#value#": [
+     "fanfic.starfall"
+    ]
+   },
+   "#pages": {
+    "datatype": "float",
+    "#value#": 22.0
+   }
+  }
+ },
+ {
+  "uuid": "b00c0017-0000-4000-8000-000000000017",
+  "application_id": 23,
+  "authors": [
+   "wanderer"
+  ],
+  "title": "the long way round",
+  "last_modified": "2026-01-01T00:00:00+00:00",
+  "lpath": "fanfic/starfall academy/the long way round - wanderer.epub",
+  "size": 50000,
+  "tags": [
+   "fanfic"
+  ]
+ }
+]

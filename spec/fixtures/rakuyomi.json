@@ -1,0 +1,371 @@
+{
+ "library": [
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper"
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron"
+  }
+ ],
+ "informations": [
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "title": "The Lantern Keeper  Lantern Keeper",
+   "cover_url": "https://example.org/inkwell/covers/101.jpg"
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "title": "Salt and Iron  and Iron",
+   "cover_url": "https://example.org/inkwell/covers/202.jpg"
+  }
+ ],
+ "details": [
+  {
+   "source_id": "en.inkwell",
+   "id": "/series/101/the-lantern-keeper",
+   "title": "The Lantern Keeper",
+   "cover_url": "https://example.org/inkwell/covers/101.jpg"
+  },
+  {
+   "source_id": "en.inkwell",
+   "id": "/series/202/salt-and-iron",
+   "title": "Salt and Iron",
+   "cover_url": "https://example.org/inkwell/covers/202.jpg"
+  }
+ ],
+ "chapters": [
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0012/the-lantern-keeper-chapter-12",
+   "manga_order": 0,
+   "chapter_number": 12.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0011/the-lantern-keeper-chapter-11",
+   "manga_order": 1,
+   "chapter_number": 11.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0010/the-lantern-keeper-chapter-10",
+   "manga_order": 2,
+   "chapter_number": 10.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0009/the-lantern-keeper-chapter-9",
+   "manga_order": 3,
+   "chapter_number": 9.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0008/the-lantern-keeper-chapter-8",
+   "manga_order": 4,
+   "chapter_number": 8.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0007/the-lantern-keeper-chapter-7",
+   "manga_order": 5,
+   "chapter_number": 7.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0006/the-lantern-keeper-chapter-6",
+   "manga_order": 6,
+   "chapter_number": 6.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0005/the-lantern-keeper-chapter-5",
+   "manga_order": 7,
+   "chapter_number": 5.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0004/the-lantern-keeper-chapter-4",
+   "manga_order": 8,
+   "chapter_number": 4.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0003/the-lantern-keeper-chapter-3",
+   "manga_order": 9,
+   "chapter_number": 3.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0002/the-lantern-keeper-chapter-2",
+   "manga_order": 10,
+   "chapter_number": 2.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0001/the-lantern-keeper-chapter-1",
+   "manga_order": 11,
+   "chapter_number": 1.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0030/salt-and-iron-chapter-30",
+   "manga_order": 0,
+   "chapter_number": 30.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0029/salt-and-iron-chapter-29",
+   "manga_order": 1,
+   "chapter_number": 29.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0028/salt-and-iron-chapter-28",
+   "manga_order": 2,
+   "chapter_number": 28.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0027/salt-and-iron-chapter-27",
+   "manga_order": 3,
+   "chapter_number": 27.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0026/salt-and-iron-chapter-26",
+   "manga_order": 4,
+   "chapter_number": 26.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0025/salt-and-iron-chapter-25",
+   "manga_order": 5,
+   "chapter_number": 25.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0024/salt-and-iron-chapter-24",
+   "manga_order": 6,
+   "chapter_number": 24.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0023/salt-and-iron-chapter-23",
+   "manga_order": 7,
+   "chapter_number": 23.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0022/salt-and-iron-chapter-22",
+   "manga_order": 8,
+   "chapter_number": 22.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0021/salt-and-iron-chapter-21",
+   "manga_order": 9,
+   "chapter_number": 21.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0020/salt-and-iron-chapter-20",
+   "manga_order": 10,
+   "chapter_number": 20.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0019/salt-and-iron-chapter-19",
+   "manga_order": 11,
+   "chapter_number": 19.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0018/salt-and-iron-chapter-18",
+   "manga_order": 12,
+   "chapter_number": 18.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0017/salt-and-iron-chapter-17",
+   "manga_order": 13,
+   "chapter_number": 17.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0016/salt-and-iron-chapter-16",
+   "manga_order": 14,
+   "chapter_number": 16.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0015/salt-and-iron-chapter-15",
+   "manga_order": 15,
+   "chapter_number": 15.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0014/salt-and-iron-chapter-14",
+   "manga_order": 16,
+   "chapter_number": 14.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0013/salt-and-iron-chapter-13",
+   "manga_order": 17,
+   "chapter_number": 13.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0012/salt-and-iron-chapter-12",
+   "manga_order": 18,
+   "chapter_number": 12.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0011/salt-and-iron-chapter-11",
+   "manga_order": 19,
+   "chapter_number": 11.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0010/salt-and-iron-chapter-10",
+   "manga_order": 20,
+   "chapter_number": 10.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0009/salt-and-iron-chapter-9",
+   "manga_order": 21,
+   "chapter_number": 9.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0008/salt-and-iron-chapter-8",
+   "manga_order": 22,
+   "chapter_number": 8.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0007/salt-and-iron-chapter-7",
+   "manga_order": 23,
+   "chapter_number": 7.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0006/salt-and-iron-chapter-6",
+   "manga_order": 24,
+   "chapter_number": 6.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0005/salt-and-iron-chapter-5",
+   "manga_order": 25,
+   "chapter_number": 5.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0004/salt-and-iron-chapter-4",
+   "manga_order": 26,
+   "chapter_number": 4.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0003/salt-and-iron-chapter-3",
+   "manga_order": 27,
+   "chapter_number": 3.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0002/salt-and-iron-chapter-2",
+   "manga_order": 28,
+   "chapter_number": 2.0
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0001/salt-and-iron-chapter-1",
+   "manga_order": 29,
+   "chapter_number": 1.0
+  }
+ ],
+ "state": [
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0001/the-lantern-keeper-chapter-1",
+   "read": 1,
+   "last_read": 1780000000
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/101/the-lantern-keeper",
+   "chapter_id": "/chapters/101-0002/the-lantern-keeper-chapter-2",
+   "read": 0,
+   "last_read": 1779990000
+  },
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0001/salt-and-iron-chapter-1",
+   "read": 0,
+   "last_read": 1779000000
+  }
+ ],
+ "downloads": [
+  "TE9Y97wYK51ab1MZrrJ_V-1pdvYqFxCHQw2NhzMd9Oo.cbz",
+  "2hb0n-MMCaGOYofVdEqRaexKw5rk9UyDvGAuaTzce6w.cbz"
+ ],
+ "notifications": [
+  {
+   "source_id": "en.inkwell",
+   "manga_id": "/series/202/salt-and-iron",
+   "chapter_id": "/chapters/202-0030/salt-and-iron-chapter-30",
+   "is_read": 0
+  }
+ ]
+}

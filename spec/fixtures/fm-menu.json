@@ -1,0 +1,733 @@
+[
+ {
+  "id": "filemanager_settings",
+  "text": "filemanager_settings",
+  "tab": "filemanager_settings",
+  "kind": "sub",
+  "depth": 0
+ },
+ {
+  "id": "filemanager_display_mode",
+  "text": "Display mode",
+  "tab": "filemanager_settings",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "filemanager_settings",
+  "plugin": "coverbrowser"
+ },
+ {
+  "id": "filebrowser_settings",
+  "text": "Settings",
+  "tab": "filemanager_settings",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "filemanager_settings"
+ },
+ {
+  "id": "show_filter",
+  "text": "Book status: all",
+  "tab": "filemanager_settings",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "filemanager_settings"
+ },
+ {
+  "id": "sort_by",
+  "text": "Sort by: name",
+  "tab": "filemanager_settings",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "filemanager_settings"
+ },
+ {
+  "id": "reverse_sorting",
+  "text": "Reverse sorting",
+  "tab": "filemanager_settings",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "filemanager_settings"
+ },
+ {
+  "id": "sort_mixed",
+  "text": "Folders and files mixed",
+  "tab": "filemanager_settings",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "filemanager_settings"
+ },
+ {
+  "id": "start_with",
+  "text": "Start with: bookbindery home",
+  "tab": "filemanager_settings",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "filemanager_settings"
+ },
+ {
+  "id": "setting",
+  "text": "setting",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 0
+ },
+ {
+  "id": "frontlight",
+  "text": "Frontlight",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "setting",
+  "inferred": true
+ },
+ {
+  "id": "night_mode",
+  "text": "Night mode",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "network",
+  "text": "Network",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "network_wifi",
+  "text": "Wi-Fi connection",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "network",
+  "inferred": true
+ },
+ {
+  "id": "network_info",
+  "text": "Network info",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "network"
+ },
+ {
+  "id": "network_powersave",
+  "text": "Disable Wi-Fi connection when inactive",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "network",
+  "inferred": true
+ },
+ {
+  "id": "network_restore",
+  "text": "Restore Wi-Fi connection on resume",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "network",
+  "inferred": true
+ },
+ {
+  "id": "ssh",
+  "text": "SSH",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "network",
+  "plugin": "SSH",
+  "inferred": true
+ },
+ {
+  "id": "screen",
+  "text": "Screen",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "screensaver",
+  "text": "Sleep screen",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "screen",
+  "inferred": true
+ },
+ {
+  "id": "screen_rotation",
+  "text": "Rotation",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "screen"
+ },
+ {
+  "id": "fullscreen",
+  "text": "Fullscreen",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "screen"
+ },
+ {
+  "id": "screen_notification",
+  "text": "Notifications",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "screen"
+ },
+ {
+  "id": "taps_and_gestures",
+  "text": "Taps and gestures",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "gesture_manager",
+  "text": "Gesture manager",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "taps_and_gestures",
+  "plugin": "gestures"
+ },
+ {
+  "id": "gesture_overview",
+  "text": "Gesture overview",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "taps_and_gestures",
+  "plugin": "gestures"
+ },
+ {
+  "id": "gesture_intervals",
+  "text": "Gesture intervals",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "taps_and_gestures",
+  "plugin": "gestures"
+ },
+ {
+  "id": "ignore_hold_corners",
+  "text": "Ignore long-press on corners",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "taps_and_gestures"
+ },
+ {
+  "id": "screen_disable_double_tap",
+  "text": "Disable double tap",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "taps_and_gestures"
+ },
+ {
+  "id": "menu_activate",
+  "text": "Activate menu",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "taps_and_gestures"
+ },
+ {
+  "id": "navigation",
+  "text": "Navigation",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "back_to_exit",
+  "text": "Back to exit: prompt",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "navigation"
+ },
+ {
+  "id": "back_in_filemanager",
+  "text": "Back in file browser: back to exit",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "navigation"
+ },
+ {
+  "id": "back_in_reader",
+  "text": "Back in reader: previous location",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "navigation"
+ },
+ {
+  "id": "backspace_as_back",
+  "text": "Backspace works as back button",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "navigation"
+ },
+ {
+  "id": "document",
+  "text": "Document",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "document_metadata_location",
+  "text": "Book metadata location: book folder",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "document"
+ },
+ {
+  "id": "document_auto_save",
+  "text": "Save book metadata: every 15 m",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "document"
+ },
+ {
+  "id": "document_end_action",
+  "text": "End of document action",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "document"
+ },
+ {
+  "id": "language_support",
+  "text": "Language support plugins",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "document"
+ },
+ {
+  "id": "language",
+  "text": "Language",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "device",
+  "text": "Device",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "setting"
+ },
+ {
+  "id": "keyboard_layout",
+  "text": "Keyboard",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "device"
+ },
+ {
+  "id": "time",
+  "text": "Time and date",
+  "tab": "setting",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "device"
+ },
+ {
+  "id": "autosuspend",
+  "text": "Autosuspend timeout",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "device",
+  "plugin": "autosuspend",
+  "inferred": true
+ },
+ {
+  "id": "screenshot",
+  "text": "Screenshot folder",
+  "tab": "setting",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "device"
+ },
+ {
+  "id": "tools",
+  "text": "tools",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 0
+ },
+ {
+  "id": "read_timer",
+  "text": "Read timer",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "readtimer"
+ },
+ {
+  "id": "calibre",
+  "text": "Calibre",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "calibre"
+ },
+ {
+  "id": "exporter",
+  "text": "Export highlights",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "exporter"
+ },
+ {
+  "id": "statistics",
+  "text": "Reading statistics",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "statistics"
+ },
+ {
+  "id": "wallabag",
+  "text": "Wallabag",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "wallabag"
+ },
+ {
+  "id": "news_downloader",
+  "text": "News downloader (RSS/Atom)",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "newsdownloader"
+ },
+ {
+  "id": "text_editor",
+  "text": "Text editor",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "texteditor"
+ },
+ {
+  "id": "profiles",
+  "text": "Profiles",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "profiles"
+ },
+ {
+  "id": "more_tools",
+  "text": "More tools",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "tools"
+ },
+ {
+  "id": "battery_statistics",
+  "text": "Battery statistics",
+  "tab": "tools",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "more_tools",
+  "plugin": "batterystat"
+ },
+ {
+  "id": "synchronize_time",
+  "text": "Synchronize time",
+  "tab": "tools",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "more_tools",
+  "plugin": "timesync",
+  "inferred": true
+ },
+ {
+  "id": "terminal",
+  "text": "Terminal emulator",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "more_tools",
+  "plugin": "terminal"
+ },
+ {
+  "id": "plugin_management",
+  "text": "Plugin management",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "more_tools"
+ },
+ {
+  "id": "patch_management",
+  "text": "Patch management",
+  "tab": "tools",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "more_tools"
+ },
+ {
+  "id": "advanced_settings",
+  "text": "Advanced settings",
+  "tab": "tools",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "more_tools"
+ },
+ {
+  "id": "bookbindery_home",
+  "text": "bookbindery home",
+  "tab": "tools",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "tools",
+  "plugin": "bookbindery"
+ },
+ {
+  "id": "search",
+  "text": "search",
+  "tab": "search",
+  "kind": "sub",
+  "depth": 0
+ },
+ {
+  "id": "search_settings",
+  "text": "Settings",
+  "tab": "search",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "search"
+ },
+ {
+  "id": "dictionary_settings",
+  "text": "Dictionary settings",
+  "tab": "search",
+  "kind": "sub",
+  "depth": 2,
+  "parent": "search_settings"
+ },
+ {
+  "id": "dictionary_lookup",
+  "text": "Dictionary lookup",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search"
+ },
+ {
+  "id": "dictionary_lookup_history",
+  "text": "Dictionary lookup history",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search"
+ },
+ {
+  "id": "vocabbuilder",
+  "text": "Vocabulary builder",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search",
+  "plugin": "vocabbuilder"
+ },
+ {
+  "id": "file_search",
+  "text": "File search",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search"
+ },
+ {
+  "id": "file_search_results",
+  "text": "Last file search results",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search"
+ },
+ {
+  "id": "find_book_in_calibre_catalog",
+  "text": "Calibre metadata search",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search",
+  "plugin": "calibre"
+ },
+ {
+  "id": "opds",
+  "text": "OPDS catalog",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search",
+  "plugin": "opds"
+ },
+ {
+  "id": "rakuyomi",
+  "text": "Rakuyomi",
+  "tab": "search",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "search",
+  "plugin": "rakuyomi",
+  "inferred": true
+ },
+ {
+  "id": "main",
+  "text": "main",
+  "tab": "main",
+  "kind": "sub",
+  "depth": 0
+ },
+ {
+  "id": "history",
+  "text": "History",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "main"
+ },
+ {
+  "id": "open_last_document",
+  "text": "Open last document",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "main"
+ },
+ {
+  "id": "favorites",
+  "text": "Favorites",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "main"
+ },
+ {
+  "id": "collections",
+  "text": "Collections",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "main"
+ },
+ {
+  "id": "bookmark_browser",
+  "text": "Bookmark browser",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 1,
+  "parent": "main"
+ },
+ {
+  "id": "help",
+  "text": "Help",
+  "tab": "main",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "main"
+ },
+ {
+  "id": "quickstart_guide",
+  "text": "Quickstart guide",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "help"
+ },
+ {
+  "id": "search_menu",
+  "text": "Menu search",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "help"
+ },
+ {
+  "id": "version",
+  "text": "Version: 2026.07.1",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "help"
+ },
+ {
+  "id": "about",
+  "text": "About",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "help"
+ },
+ {
+  "id": "exit_menu",
+  "text": "Exit",
+  "tab": "main",
+  "kind": "sub",
+  "depth": 1,
+  "parent": "main"
+ },
+ {
+  "id": "restart_koreader",
+  "text": "Restart KOReader",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "exit_menu"
+ },
+ {
+  "id": "sleep",
+  "text": "Sleep",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "exit_menu",
+  "inferred": true
+ },
+ {
+  "id": "exit",
+  "text": "Exit",
+  "tab": "main",
+  "kind": "callback",
+  "depth": 2,
+  "parent": "exit_menu"
+ }
+]
